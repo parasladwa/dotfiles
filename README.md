@@ -10,14 +10,17 @@ A lot of this was inspired by other users, though theses are my personal dotfile
 - **Zsh** (`~/.zshrc`)
 - **Wallpapers** (`dark.jpg`)
 
+
+
+## Screenshots
+![Desktop](screenshot.png)
+
+
+
+
 ## Usage
 Clone the repo:
 
 ```bash
 git clone https://github.com/parasladwa/dotfiles.git
-
-
-## Screenshots
-
-![Desktop](screenshot.png)
 
