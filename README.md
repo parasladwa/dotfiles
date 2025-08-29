@@ -1,12 +1,18 @@
 # Dotfiles
 
-A lot of this was inspired by other users, though theses are my personal dotfiles for Arch Linux + Hyprland.
+A lot of is was inspired by other users, though theses are my personal dotfiles for Arch Linux + Hyprland. 
+
+The goal is to create a simple productive environment while gaining a better understanding of linux. 
+
+*This is a WIP*
+
 
 ## Includes
+
 - **Hyprland** (`~/.config/hypr/`)
 - **Kitty** (`~/.config/kitty/`)
 - **Neovim** (`~/.config/nvim/`)
-- **Waybar** (`~/.config/waybar/`)
+- **Waybar** (`~/.config/waybar/`) 
 - **Zsh** (`~/.zshrc`)
 - **Wallpapers** (`dark.jpg`)
 
