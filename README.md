@@ -16,3 +16,8 @@ Clone the repo:
 ```bash
 git clone https://github.com/parasladwa/dotfiles.git
 
+
+## Screenshots
+
+![Desktop](screenshot.png)
+
