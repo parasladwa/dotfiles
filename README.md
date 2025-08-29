@@ -1,6 +1,6 @@
-o# Dotfiles
+# Dotfiles
 
-My personal dotfiles for Arch Linux + Hyprland.
+A lot of this was inspired by other users, though theses are my personal dotfiles for Arch Linux + Hyprland.
 
 ## Includes
 - **Hyprland** (`~/.config/hypr/`)
