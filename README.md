@@ -19,5 +19,5 @@ git clone https://github.com/parasladwa/dotfiles.git
 
 ## Screenshots
 
-![Desktop](screenshot.png)
+![Desktop](https://github.com/parasladwa/dotfiles/blob/main/screenshot.png)
 
